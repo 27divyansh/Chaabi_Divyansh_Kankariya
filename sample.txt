@@ -1,0 +1,66 @@
+Divyansh Kankariya 200352
+Chaabi Assignment
+
+Results for some queries:
+----------------------------------------------------------------------------------------------------------------------------------
+query: "spf sunscreen"
+result:
+1. Sweat Proof Sunscreen SPF 30 by Kaya Clinic: This sunscreen is water and sweat resistant, providing up to 8-hour broad spectrum protection against harmful UV-A and UV-B rays. It has a light white colored cream that leaves the skin smooth and silky. It is developed by dermatologists. Market price: ₹975, Sale price: ₹682. Rating: 4.8.
+
+2. Sports Sunscreen Lotion SPF 50 by INATUR: This sunscreen is a light, sweat-proof formula that stays on the skin and fights environmental damage for long hours. It is suggested for long outdoor activities, beach sports, swimming, and any long exposure to the sun. It contains various ingredients like MBBT, OMC, Oxybenzone, Calendula extracts, and Swiss moisturizers. Market price: ₹380, Sale price: ₹247. Rating: 3.7.
+
+3. Family Sunscreen Lotion SPF 25 by INATUR: This sunscreen is an innovative sun protection lotion for the entire family, including kids. It has an ultra-light and non-shiny finish, making it suitable as a base before makeup. It contains Aloe Vera, Benzophenone 3, Carrot extracts, Ethylexyl Methoxycinnamate, Butyl Mehoxydibenzalemethane, Honey, Liquorice, and Sandalwood. Market price: ₹420, Sale price: ₹273. Rating: 1.
+
+4. Mineral Based Baby Sunscreen Lotion, SPF 50 PA+++ by Mom & World: This sunscreen is specially formulated to be non-irritant and ideal for baby's sensitive skin. It is non-greasy, non-allergenic, and can be used anywhere on the body where the sun is going to shine. It contains Zinc Oxide and Titanium Dioxide as active ingredients. Market price: ₹399, Sale price: ₹379. Rating: 1.
+
+5. Sunspray Sunscreen SPF 30 by INATUR: This sunscreen is an organic-mineral-aqueous system that ensures high UVA & UVB protection. It is light, oil-free, and excellent for sensitive, oily, and delicate skin. It contains Carrot extracts, Honey extracts, Aloe Vera, and Bergamot oil. Market price: ₹450, Sale price: ₹292.5.
+
+Please let me know if you need more information about any of these products.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+query: "organic flax seeds"
+result:
+Based on your query for organic flax seeds, here are some products that you might find helpful:
+
+1. Organic Flax Seeds Organic by 24 Mantra: This product is part of the Organic Staples category and belongs to the Foodgrains, Oil & Masala category. It contains ?-Linolenic acid, an omega-3 fatty acid, protein, dietary fiber, lignan, and Secoisolariciresinol diglucoside (SDG). It has a rating of 4.3 and is priced at Rs. 65.
+
+2. Organic - Flax Seeds by bb Royal: This product is also part of the Organic Staples category and belongs to the Foodgrains, Oil & Masala category. It is known for providing strong omega-3 fatty acids and fiber. It is cultivated without the use of pesticides, artificial fertilizers, or chemicals. It has a rating of 4.1 and is priced at Rs. 80.
+
+3. Flaxseed Grains - Cold Milled Organic, Whole by Health 1st: This product is part of the Cooking & Baking Needs category and belongs to the Gourmet & World Food category. It is pure seed product of flax that needs to be ground prior to use. It provides Omega 3 fatty acids, antioxidants, and fiber. It is helpful in maintaining women's health. It has a rating of 4 and is priced at Rs. 160.
+
+4. Organic - Flaxseed by Turn Organic: This product is part of the Organic Staples category and belongs to the Foodgrains, Oil & Masala category. It is known as Alsi and contains high levels of dietary fiber, lignans, micronutrients, and omega-3 fatty acids. It has a rating of 4.3 and is priced at Rs. 28.
+
+5. Flax Seeds by Grocery Farm: This product is part of the Dry Fruits category and belongs to the Foodgrains, Oil & Masala category. It is the richest source of plant-based omega-3 fatty acids and contains good fats for healthy heart functions. It is also a rich source of micronutrients. It has a rating of 4.2 and is priced at Rs. 38.
+
+Please note that the prices mentioned are subject to change. If you need more information or have any other queries, feel free to ask.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+query: "tomato chips"
+result:
+1. FabBox Salsa Sweet Potato Chips: These chips have a zingy tomato twist and are non-fried, making them a healthier option with 82% less oil than standard market chips. They are perfect for those on a diet who still want to enjoy chips. 
+
+2. Bingo Juicy Tomato Ketchup Potato Chips: These chips offer the maturity of juicy tomatoes and the sweetness of sauce combined with the saltiness of chips. They provide a unique relish and freshness with a crusty crispness. 
+
+3. Makino Nacho Chips - Jalapeno + Corn Chips - Cream & Onion + Corn Twist - Tomato (100 g): This combo pack includes nacho chips, corn chips, and corn twists. These crunchy chips can be enjoyed as a light snack on the go. 
+
+4. Time Pass Groovy Chips - Spicy Tomato: These multigrain chips have a unique, crispy bite with a spicy tomato flavor trapped within its grooves. They are great for fixing instant hunger pangs and satisfying cravings. 
+
+5. Piknik Classic Tomato Chilli: These mouth-watering tomato chili sticks are made from wheat, edible starches, potato flour, and all-natural ground spices. They offer a sweet and spicy taste with 25% less oil than potato chips. 
+
+Please note that we don't have specific information about the ratings for some of the products.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+query: "brown jaggery desi"
+result:
+Based on your query for "brown jaggery desi," here are some products that may be of interest to you:
+
+1. Organic Jaggery/Bella by Praakritik: This brown Organic Jaggery is sourced from Organic sugarcane farms in Latur, Maharashtra. It has a mildly aromatic and distinctly sweet flavor. It is packed with nutrients and minerals and is known for its cleansing properties and ability to fight air-pollution. It is a healthy replacement for sugar and is rich in antioxidants and selenium. It is also used in Ayurveda for purifying the blood, detoxing the liver, aiding digestion, and relieving various health issues. Market price: 160 INR.
+
+2. Jaggery/Bella Lump by Arya Organic: This Jaggery lump is organic, free from chemicals and pesticides. It is rich in minerals and is used as an additive in local remedies for cough and cold. It provides energy slowly over a longer period and is a popular substitute for sugar. It is commonly used in making various types of sweet dishes and is an integral part of Indian festivals. It is recommended to store it in an airtight stainless steel or glass container in a cool and dry place. Market price: 165.62 INR.
+
+Please note that the specific term "desi" was not mentioned in the product descriptions. However, these products are known for their authentic and organic qualities and may meet your requirements.
+
+----------------------------------------------------------------------------------------------------------------------------------
